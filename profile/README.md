@@ -17,6 +17,7 @@ infrastructure they run on.
 
 | Project | What it is |
 |---|---|
+| **[roster](https://github.com/ryuclub/roster)** | AI agent for GitHub-driven development management — multi-LLM provider support, Slack slash commands, project memory. Written in Go, deployable via Helm. |
 | **[market-monitor](https://github.com/ryuclub/market-monitor)** | Crypto market dashboard — Binance real-time candlesticks, technical indicators, signal scoring, backtesting. Pure frontend, zero dependencies. |
 | **[video-studio](https://github.com/ryuclub/video-studio)** | Article-to-video pipeline across four content lines. Every frame is drawn in code as SVG — no stock footage compositing. |
 | **[telegram-bot](https://github.com/ryuclub/telegram-bot)** | Telegram group moderation — emoji-based join verification and Claude-powered spam classification. |
